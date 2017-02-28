@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+body{margin:0; padding:0; font-size:14px; font-family:"微软雅黑"; color:#666;}
+h1,h2,p,ul,li,dl,dt,dd,img,input,button,ol{margin:0; padding:0; list-style:none; border:0; outline:none;}
+a:link,a:visited{color:#666; text-decoration:none;}
+a:hover{text-decoration:underline;}
+/*header*/
+.header{width:1424px; height:127px; border-bottom:2px solid #E1E0E0; margin:0 auto; margin-bottom:3px;}
+.site-nav{width:1424px; height:37px; background:#2B2D2C;}
+.site-nav-content{width:1164px; height:28px; margin:0 auto; padding-top:9px;}
+.s-n-l{float:left;}
+.s-n-r{float:right;}
+.s-n-r a{color:#c3c2c2;}
+.nav{width:1164px; height:90px; margin:0 auto;}
+.nav .nav-l{float:left; padding-top:44px;}
+.nav .nav-r{float:right; padding-top:60px;}
+.nav .nav-r li{float:left; padding-left:46px; font-size:14px;}
+/*banner*/
+#banner{width:1424px; height:600px; margin:0 auto; position:relative;}
+#banner ol{position:absolute; left:50%; bottom:0; margin-left:-451px;}
+#banner ol li{width:179px; height:39px; background:#FFF; float:left; border-right:1px solid blue; opacity:0.7; line-height:39px; text-align:center;}
+#banner ol .last{border:0;}
+/*layout-one*/
+#layout-one{width:1424px; height:250px; margin:0 auto; padding-top:30px;}
+#layout-one ul{width:1164px; margin:0 auto;}
+#layout-one ul li{width:375px; height:232px; background:url(../images/adbg3.png) no-repeat center bottom; float:left; margin-right:18px;} 
+/*layout-two*/
+#layout-two{width:1424px; height:607px; margin:0 auto; background:#EAEAEA; padding-top:55px;}
+.two-con{width:1164px; height:558px; margin:0 auto;}
+.con-l{width:776px; height:558px; float:left;}
+.con-l ul li{width:380px; height:270px; border-bottom:3px solid #C3C2C2; float:left; overflow:hidden; margin:0 8px 14px 0;}
+.con-l ul .current{border-bottom:3px solid #09C;}
+.con-r{width:370px; height:558px; float:right;}
+.con-r ol{width:370px; height:53px;}
+.con-r ol li{width:185px; height:50px; background:#E2E0E0; font-size:16px; line-height:50px; text-align:center; border-bottom:3px solid #E2E0E0; float:left;}
+.con-r ol a:hover{text-decoration:none; color:#000;}
+.con-r ol .current{background:#FFF; border-bottom:3px solid #09C;}
+.con-r ul{width:338px; height:486px; border:1px solid #D2D2D2; border-top:0; background:#FFF; padding:18px 0 0 30px;}
+.con-r ul li{height:30px; background:url(../images/dot.gif) no-repeat 0 7px; padding-left:14px;}
+/*foot*/
+#foot{width:1424px; height:384px; margin:0 auto;}
+.foot-content{width:1140px; height:384; margin:0 auto;}
+.foot-top{width:1140px; height:62px; border-bottom:1px solid #C8C9CD; padding-top:20px;}
+.foot-top ul li{width:200px; height:61px; background:url(../images/bgborder.jpg) no-repeat right 10px; padding-left:80px; float:left;}
+.foot-top ul li .ico-l{float:left;}
+.foot-top ul li .ico-r{float:left; font-weight:bold; font-family:"微软雅黑"; padding:6px 0 0 14px; font-size:16px;}
+.foot-nav{height:116px; border-bottom:1px solid #C8C9CD; padding:28px 0 0 50px;}
+.foot-nav dl{width:166px; float:left; line-height:24px;}
+.foot-nav dl dt{font-weight:bold; color:#333;}
+.foot-nav .phone dt{font-weight:normal; font-size:12px;}
+.foot-nav .phone p{height:30px; background:url(../images/ico_tel.jpg) no-repeat; padding-left:38px; font-size:21px;}
+.foot-nav .phone span{margin-left:38px;}
+.links{padding-top:25px; text-align:center; font-size:12px; line-height:24px;}
+.links span{color:#333;}
+.links .copy{padding-top:5px;}

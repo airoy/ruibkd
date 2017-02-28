@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>海昌首页</title>
+<!-- TemplateEndEditable -->
+<link href="../css/style.css" rel="stylesheet" type="text/css"/>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<!--[IF IE 6]> 
+<script type="text/javascript" src="js/iepng.js"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix("*");
+document.execCommand("BackgroundImageCache", false, true);
+</script>
+<![ENDIF]-->
+
+<body>
+<div id="bg">
+	<div class="yy_bg">
+        <div id="box">
+            <div class="header">
+                <div class="head_top">
+                    <h1><a href="#"><img src="../images/index_04.jpg"/></a></h1>
+                    <div class="shopping">
+                        <a href="#" class="shop_left">去哪买</a>
+                        <a href="#" class="shop_right">会员club</a>
+                    </div>
+                </div>
+                <div class="nav">
+                    <ul>
+                        <li><a class="nav_tit" href="../index.html">首页</a></li>
+                        <li><a class="nav_tit" href="#">关于海昌</a></li>
+                        <li><a class="nav_tit" href="#">EYE主打</a></li>
+                        <li><a class="nav_tit" href="#">EYE美活动</a></li>
+                        <li><a class="nav_tit" href="#">EYE眼课堂</a></li>
+                    </ul>
+                     <p>
+                       <input class="txt" type="text" value="产品搜索"/>
+                       <input class="search" type="submit" value=""/>
+                     </p>
+                </div>
+            </div>	
+          <div id="banner"><p class="lable_1">  <!--<img src="images/right_2013.png"/></p>--></div>
+          <!-- TemplateBeginEditable name="EditRegion3" -->
+          <div></div>
+          <!-- TemplateEndEditable -->
+        </div>
+	</div>
+    <div class=footer_bg1>
+        <div class=footer_bg2>
+            <p>
+                <a href="#">联系我们</a> | 
+                <a href="#">网站地图</a> | 
+                <a href="#">使用条款</a>
+                <a class="zc" href="#">© hydron 2015. All rights reserved</a>
+            </p>
+        </div>
+	</div>
+</div>
+</body>
+</html>
